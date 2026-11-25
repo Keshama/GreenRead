@@ -24,16 +24,13 @@ GET/POST /books, GET/PATCH/DELETE /books/:id, GET /books/stats, GET /books/bookm
    ![prisma service](docs/screenshots/langkah4.png)
 
 5. Pastikan operasi CRUD dasar (create, read, update, delete) pada aplikasi Anda sudah berjalan menggunakan Prisma Client dan tersimpan permanen.
+    ![POST](docs/screenshots/langkah5POST.png)
 
    ![GET](docs/screenshots/langkah5GET.png)
 
-   ![GET 2](docs/screenshots/langkah5GET(2).png)
-
-   ![POST](docs/screenshots/langkah5POST.png)
-
    ![DELETE](docs/screenshots/Langkah5DELETE.png)
 
-   ![PATCH](docs/screenshots/langkah6PATCH.png)
+    ![GET 2](docs/screenshots/langkah5GET(2).png)
 
 6. (Opsional, nilai tambah) Tambahkan 1 endpoint dengan query lanjutan, misalnya filter data (`where`) atau statistik sederhana (`count`).  
-   ![query lanjutan](docs/screenshots/langkah5GET.png)
+   ![query lanjutan](docs/screenshots/langkah6PATCH.png)
